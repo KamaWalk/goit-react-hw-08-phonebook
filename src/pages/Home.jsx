@@ -1,10 +1,3 @@
-// import {
-//     FcBusinessContact,
-//     FcCellPhone,
-//     FcConferenceCall,
-//     FcAlarmClock,
-//   } from 'react-icons/fc';
-  
   const styles = {
     container: {
       minHeight: 'calc(50vh - 50px)',
