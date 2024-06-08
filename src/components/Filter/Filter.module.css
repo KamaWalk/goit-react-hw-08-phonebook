@@ -9,11 +9,10 @@
   
   .filterLabel {
     width: 47%;
-    color: #673ab7;
+    color: #b73aad;
     font-size: 15px;
     font-weight: 600;
     margin-top: 20px;
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
   }
   
   .filterInput {

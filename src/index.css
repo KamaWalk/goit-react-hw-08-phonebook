@@ -8,17 +8,19 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+  color: #ec0cb7;
 }
 
 body {
   margin: 0;
-  /* background-color: #00415a; */
+  background-color: #ffb5e891;
   padding: 20px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas,
     'Courier New', monospace;
+    color: #ec0cb7;
 }
 
 h1,
@@ -29,4 +31,5 @@ h5,
 h6,
 p {
   margin: 0;
+  color: #ec0cb7;
 }

@@ -9,11 +9,10 @@
   
   .label {
     margin-bottom: 20px;
-    color: #673ab7;
+    color: #b73ab5;
     font-weight: 700;
     margin-top: 20px;
     margin-bottom: 8px;
-    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
   }
   
   .loginBtn {

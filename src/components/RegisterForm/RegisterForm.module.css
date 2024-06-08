@@ -1,5 +1,4 @@
 .form {
-    /* width: 100%; */
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -17,11 +16,10 @@
   
   .label {
     width: 40%;
-    color: #673ab7;
+    color: #b73aab;
     font-weight: 700;
     margin-top: 15px;
     margin-bottom: 5px;
-    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
   }
   
   .loginBtn {

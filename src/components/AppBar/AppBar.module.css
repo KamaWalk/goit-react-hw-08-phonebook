@@ -6,6 +6,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid #333;
+    border-bottom: 15px dotted #f353d8;
     padding: 20px 20px;
   }
