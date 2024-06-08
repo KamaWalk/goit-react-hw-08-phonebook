@@ -1,9 +1,9 @@
-import {
-    FcBusinessContact,
-    FcCellPhone,
-    FcConferenceCall,
-    FcAlarmClock,
-  } from 'react-icons/fc';
+// import {
+//     FcBusinessContact,
+//     FcCellPhone,
+//     FcConferenceCall,
+//     FcAlarmClock,
+//   } from 'react-icons/fc';
   
   const styles = {
     container: {
@@ -29,10 +29,7 @@ import {
       <div style={styles.container}>
         <h1 style={styles.title}>Welcome to Your Phonebook </h1>
         <p>
-          <FcAlarmClock size='75' />
-          <FcCellPhone size='75' />
-          <FcConferenceCall size='75' />
-          <FcBusinessContact size='75' />
+          Please <b>login</b> to access your contacts and <b>enjoy</b> not having to remember all of those by heart 
         </p>
       </div>
     );
